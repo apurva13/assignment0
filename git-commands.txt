@@ -1,0 +1,9 @@
+GIT COMMANDS
+git config --global user.name "apurva13"
+git config --global user.email "apurva13598@gmail.com"
+git init
+git add filename
+git add .
+git commit -m "first commit"
+git remote add origin "https://github.com/apurva13/hello.git"
+git push -u origin master
